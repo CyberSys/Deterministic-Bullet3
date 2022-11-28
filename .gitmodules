@@ -1,3 +1,6 @@
 [submodule "thirdparty/bullet"]
 	path = thirdparty/bullet
 	url = https://github.com/bulletphysics/bullet3.git
+[submodule "thirdparty/cnl"]
+	path = thirdparty/cnl
+	url = https://github.com/johnmcfarlane/cnl.git
